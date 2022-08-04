@@ -1,4 +1,4 @@
-package concept;
+package bruteforce;
 
 public class Dfs {
 

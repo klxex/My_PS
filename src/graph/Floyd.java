@@ -1,10 +1,10 @@
-package concept;
+package graph;
 
-public class Dijstra {
+public class Floyd {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-			
+
 	}
 
 }
